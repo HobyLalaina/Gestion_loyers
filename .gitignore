@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Environnements virtuels
+.venv/
+env/
+venv/
+
+# Django
+*.sqlite3
+/media/
+staticfiles/
+
+# Node
+node_modules/
+dist/
+
+# Configs sensibles
+.env
